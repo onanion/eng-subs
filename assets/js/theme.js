@@ -182,12 +182,3 @@ $(document).ready(function(){
 
 
 });
-
-
-// Table Box
-
-<script src='https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js'/>
-
-<script type='text/javascript'>
-jQuery(document).ready(function($){$(&#39;#udltb li:first&#39;).addClass(&#39;active&#39;);$(&#39;#udlctn &gt; div&#39;).hide();$(&#39;#udlctn &gt; div:first&#39;).show();$(&#39;#udltb a&#39;).click(function(){$(&#39;#udltb li&#39;).removeClass(&#39;active&#39;);$(this).parent().addClass(&#39;active&#39;);var activeTab=$(this).attr(&#39;href&#39;);$(&#39;#udlctn &gt; div:visible&#39;).hide();$(activeTab).show();return false;});});
-</script>
