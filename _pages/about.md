@@ -3,7 +3,7 @@ layout: page
 title: Free Watch & Download JAV Porn
 permalink: /about
 comments: false
-image: assets/images/screenshot.jpg
+image: 
 imageshadow: true
 ---
 
