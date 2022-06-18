@@ -615,6 +615,45 @@ body.active-side {
     background:#fff;
 }
 
+
+//Table Box
+#utb {
+position: relative;
+}
+
+#udltb {
+list-style:none;
+height: 30px;
+margin: 0 !important;
+padding: 0 !important
+}
+#udltb li {
+list-style:none;
+margin: 0 0 0 0px;
+list-style:none;
+float: left;
+}
+#udltb li a{
+display: block;
+padding: 0 6px;
+line-height: 30px;
+text-decoration: none;
+color: #fff;
+background-color: #263238
+}
+#udltb li.active a{
+background-color: #2196F3
+}
+
+#udlctn > div {
+padding: 10px 0px;
+}
+
+#tab2, #tab3{
+display:none;
+}
+
+
 @media screen and (max-width: 100%) {
   label {
     font-size: 0;
