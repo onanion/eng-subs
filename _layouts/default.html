@@ -151,7 +151,7 @@
 <script>/*<![CDATA[*/const players = Array.from(document.querySelectorAll('.js-player')).map(player => new Plyr(player));/*]]>*/</script>
 
 <script type='text/javascript'>
-jQuery(document).ready(function($){$(&#39;#udltb li:first&#39;).addClass(&#39;active&#39;);$(&#39;#udlctn &gt; div&#39;).hide();$(&#39;#udlctn &gt; div:first&#39;).show();$(&#39;#udltb a&#39;).click(function(){$(&#39;#udltb li&#39;).removeClass(&#39;active&#39;);$(this).parent().addClass(&#39;active&#39;);var activeTab=$(this).attr(&#39;href&#39;);$(&#39;#udlctn &gt; div:visible&#39;).hide();$(activeTab).show();return false;});});
+jQuery(document).ready(function($){$("#udltb li:first").addClass("active");$("#udlctn &gt; div").hide();$("#udlctn &gt; div:first).show();$("#udltb a").click(function(){$("#udltb li").removeClass("active");$(this).parent().addClass("active");var activeTab=$(this).attr("href");$("#udlctn &gt; div:visible").hide();$(activeTab).show();return false;});});
 </script>
 
 </body>
