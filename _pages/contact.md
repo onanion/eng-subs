@@ -18,3 +18,4 @@ comments: false
 <textarea rows="8" class="form-control mb-3" name="message" placeholder="Message*" required></textarea>    
 <input class="btn btn-dark" type="submit" value="Send">
 </form>
+<br />
