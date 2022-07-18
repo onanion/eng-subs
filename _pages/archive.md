@@ -1,5 +1,5 @@
 ---
-layout: tags
+layout: archive
 title: Archive
 permalink: /archive
 ---
