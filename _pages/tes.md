@@ -7,6 +7,86 @@ image:
 imageshadow: true
 ---
 <style>
+        .listupd .bvlcen {
+            text-align: center;
+            padding-top: 15px;
+            padding-bottom: 10px
+        }
+        .listupd {
+            padding: 10px;
+            overflow: hidden
+        }
+
+        .listupd.cp {
+            margin: -15px;
+            font-size: 14px
+        }
+
+        .listupd .lexa {
+            overflow: hidden;
+            margin-bottom: 10px;
+            border-bottom: 1px solid #ddd;
+            padding-bottom: 10px
+        }
+
+        .listupd .lexa .thumb {
+            float: left;
+            overflow: hidden;
+            max-height: 100px;
+            margin-right: 15px
+        }
+
+        .listupd .lexa .dtl {
+            overflow: hidden;
+            padding: 10px;
+            margin: 0;
+            border-bottom: 0;
+            background: #f7f7f7
+        }
+
+        .listupd .lexa .dtl h2 {
+            font-size: 16px;
+            margin: 0;
+            margin-bottom: 5px
+        }
+
+        .listupd .lexa .dtl span {
+            display: block;
+            margin-bottom: 3px
+        }
+
+        .listupd .lexa .dtl h2 a {
+            color: #000
+        }
+
+        .listupd .lexa .dtl h2 a:hover {
+            text-decoration: none;
+            color: #3367d6
+        }
+
+        .listupd .lexa .thumb img {
+            max-width: 175px
+        }
+
+        .hotbadge {
+            position: absolute;
+            top: 5px;
+            left: 5px;
+            background: #d33;
+            z-index: 1;
+            color: #fff;
+            width: 22px;
+            height: 22px;
+            text-align: center;
+            border-radius: 50%
+        }
+
+        .hotbadge i {
+            line-height: 22px
+        }
+
+
+
         .bs {
             float: left;
             width: 20%
@@ -558,7 +638,8 @@ span.current {
             color: #89beff
         }
 </style>
-
+                    <div class="listupd normal">
+                        <div class="excstf">
 <article class="bs styleegg" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
     <div class="bsx"> <a href="https://oploverz.to/movie/one-piece-gfqsgfllib/" itemprop="url" class="tip" rel="725" data-hasqtip="0" oldtitle="One Piece Episode 1013 Subtitle Indonesia" title="">
             <div class="limit">
@@ -634,4 +715,4 @@ span.current {
                 </div> <img src="https://upload.oploverz.to/dragon-ball-z.jpg" class="ts-post-image wp-post-image attachment-medium_large size-medium_large" loading="lazy" itemprop="image" title="Dragon Ball Z" width="247" height="350">
             </div>
         </a></div>
-</article>
+</article></div></div>
