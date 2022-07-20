@@ -133,9 +133,9 @@ span.actress-info:hover {
 </div>
 <div class="actress-details">
 <span class="actrees-name">Hatano Yui</span>
-<span style=color:#7664bf>波多野結衣</span>
+<span style="color:#7664bf">波多野結衣</span>
 <span style="color:#b7903f">34 years old</span>
-<span style=color:black;font-weight:bolder;><i class="video"></i> 337 videos</span>
+<span style="color:black;font-weight:bolder;"><i class="video"></i> 337 videos</span>
 </div>
 </div>
 </a>
@@ -146,9 +146,9 @@ span.actress-info:hover {
 </div>
 <div class="actress-details">
 <span class="actrees-name">Shinoda Yuu</span>
-<span style=color:#7664bf>篠田ゆう</span>
+<span style="color:#7664bf">篠田ゆう</span>
 <span style="color:#b7903f">31 years old</span>
-<span style=color:black;font-weight:bolder;><i class="video"></i> 297 videos</span>
+<span style="color:black;font-weight:bolder;"><i class="video"></i> 297 videos</span>
 </div>
 </div>
 </a>
@@ -159,9 +159,9 @@ span.actress-info:hover {
 </div>
 <div class="actress-details">
 <span class="actrees-name">Julia</span>
-<span style=color:#7664bf>JULIA</span>
+<span style="color:#7664bf">JULIA</span>
 <span style="color:#b7903f">35 years old</span>
-<span style=color:black;font-weight:bolder;><i class="video"></i> 272 videos</span>
+<span style="color:black;font-weight:bolder;"><i class="video"></i> 272 videos</span>
 </div>
 </div>
 </a>
@@ -172,9 +172,9 @@ span.actress-info:hover {
 </div>
 <div class="actress-details">
 <span class="actrees-name">Nagisa Mitsuki</span>
-<span style=color:#7664bf>渚みつき</span>
+<span style="color:#7664bf">渚みつき</span>
 <span style="color:#b7903f">24 years old</span>
-<span style=color:black;font-weight:bolder;><i class="video"></i> 265 videos</span>
+<span style="color:black;font-weight:bolder;"><i class="video"></i> 265 videos</span>
 </div>
 </div>
 </a>
@@ -185,9 +185,9 @@ span.actress-info:hover {
 </div>
 <div class="actress-details">
 <span class="actrees-name">Tsubomi</span>
-<span style=color:#7664bf>つぼみ （つぼみ / Tsubomi）</span>
+<span style="color:#7664bf">つぼみ （つぼみ / Tsubomi）</span>
 <span style="color:#b7903f">35 years old</span>
-<span style=color:black;font-weight:bolder;><i class="video"></i> 253 videos</span>
+<span style="color:black;font-weight:bolder;"><i class="video"></i> 253 videos</span>
 </div>
 </div>
 </a>
