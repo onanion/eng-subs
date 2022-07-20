@@ -126,29 +126,23 @@ span.actress-info:hover {
 
 <div class="actress-page">
 <div class="actress-box">
-<a href="https://jav.guru/actress/hatano-yui/">
+<a href="/tags/Haruna-Hana">
 <div class="actress-info">
 <div class="actress-pic">
-<img src="https://cdn.javsts.com/wp-content/uploads/2016/10/631323.jpg" alt="Hatano Yui">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijAlt9V6lOVo8J_PtVb3X1916E4DZkzbO0VTspjcXPHdB97kQPevh9nwf2t5rrFZT_HsJoyNQ1ldi7RWkyQgwQEY6mpmD_NQzYR7j6CmilQ1JT-i_76MTA6kXXK2Tls0t5fx1CRLGZKmfmSyGViW6zUs5ba8jUxra-9Ai6sGFezwqNqEm3waTGLWbv/s1600/840252.jpg" alt="Haruna Hana">
 </div>
 <div class="actress-details">
-<span class="actrees-name">Hatano Yui</span>
-<span style="color:#7664bf">波多野結衣</span>
-<span style="color:#b7903f">34 years old</span>
-<span style="color:black;font-weight:bolder;"><i class="video"></i> 337 videos</span>
+<span class="actrees-name">Haruna Hana</span>
 </div>
 </div>
 </a>
-<a href="https://jav.guru/actress/shinoda-yuu/">
+<a href="/tags/Kano-Hana/">
 <div class="actress-info">
 <div class="actress-pic">
-<img src="https://cdn.javsts.com/wp-content/uploads/2022/06/504478.jpg" alt="Shinoda Yuu">
+<img src="https://pbs.twimg.com/media/DR5DeDOVoAEdpE4?format=jpg&name=900x900" alt="Kano Hana">
 </div>
 <div class="actress-details">
-<span class="actrees-name">Shinoda Yuu</span>
-<span style="color:#7664bf">篠田ゆう</span>
-<span style="color:#b7903f">31 years old</span>
-<span style="color:black;font-weight:bolder;"><i class="video"></i> 297 videos</span>
+<span class="actrees-name">Kano Hana</span>
 </div>
 </div>
 </a>
