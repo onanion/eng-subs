@@ -107,6 +107,9 @@ span.actress-info:hover {
 </div>
 <div class="actress-details">
 <span class="actrees-name">Haruna Hana</span>
+<span style=color:#7664bf>春菜はな</span>
+<span style="color:#b7903f">34 years old</span>
+<span style=color:black;font-weight:bolder;><i class="video"></i> 242 videos</span>
 </div>
 </div>
 </a>
@@ -117,6 +120,9 @@ span.actress-info:hover {
 </div>
 <div class="actress-details">
 <span class="actrees-name">Kano Hana</span>
+<span style=color:#7664bf>春菜はな</span>
+<span style="color:#b7903f">34 years old</span>
+<span style=color:black;font-weight:bolder;><i class="video"></i> 242 videos</span>
 </div>
 </div>
 </a>
@@ -127,6 +133,9 @@ span.actress-info:hover {
 </div>
 <div class="actress-details">
 <span class="actrees-name">Natsume Eri</span>
+<span style=color:#7664bf>春菜はな</span>
+<span style="color:#b7903f">34 years old</span>
+<span style=color:black;font-weight:bolder;><i class="video"></i> 242 videos</span>
 </div>
 </div>
 </a>
@@ -137,6 +146,9 @@ span.actress-info:hover {
 </div>
 <div class="actress-details">
 <span class="actrees-name">Kirishima Reona</span>
+<span style=color:#7664bf>春菜はな</span>
+<span style="color:#b7903f">34 years old</span>
+<span style=color:black;font-weight:bolder;><i class="video"></i> 242 videos</span>
 </div>
 </div>
 </a>
@@ -147,6 +159,9 @@ span.actress-info:hover {
 </div>
 <div class="actress-details">
 <span class="actrees-name">Dan Rinsa</span>
+<span style=color:#7664bf>春菜はな</span>
+<span style="color:#b7903f">34 years old</span>
+<span style=color:black;font-weight:bolder;><i class="video"></i> 242 videos</span>
 </div>
 </div>
 </a>
