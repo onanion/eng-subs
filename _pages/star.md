@@ -29,12 +29,12 @@ imageshadow: true
     box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.05) inset, 0px 1px 0px rgba(255, 255, 255, 0.1);
 }
 .anim {
-    float: left;
+    float: center;
     margin: 5px;
     border: none;
     position: relative;
-    width: 159px;
-    height: 208px;
+    width: 149px;
+    height: 198px;
     overflow: hidden;
 }
 .stat.ongo {
