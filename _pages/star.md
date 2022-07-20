@@ -32,6 +32,7 @@ imageshadow: true
 
 .actress-info img {
 	width: 170px;
+	width: 270px;
 	border-radius: 5%;
 	display: inline-block;
 	vertical-align: middle;
@@ -88,15 +89,11 @@ imageshadow: true
 		color: pink!important;
 	}   
 	
-a {
-    color: #111f2e;
-}
-	
 span.actress-info:hover {
 		color: pink!important;
 	}
 </style>
-tessgg
+tessggggbb
 <div class="actress-page">
 <div class="actress-box">
 <a href="/tags#Haruna-Hana">
