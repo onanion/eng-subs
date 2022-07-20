@@ -18,6 +18,7 @@ a:after {
 a:hover:after { transform: scaleX(1); }
 a.fromRight:after{ transform-origin:100% 50%; }
 a.fromLeft:after{  transform-origin:  0% 50%; }
+</style>
 
 <p>&#8212; <a class="fromLeft" href='/categories#abuse' title='abuse'>abuse</a></p>
 <p>&#8212; <a class="fromLeft" href='/categories#Documentary' title='Documentary'>Documentary</a></p>
