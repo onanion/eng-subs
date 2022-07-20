@@ -16,7 +16,7 @@ imageshadow: true
 
 .actress-box a {
     display: inline-block;
-    margin: 10px 0 0 10px;
+
     flex-grow: 1; 
     width: calc(100% * (1/5) - 10px - 1px)
 }
