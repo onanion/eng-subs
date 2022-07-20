@@ -23,7 +23,7 @@ imageshadow: true
 }
 
 .actress-info {
-    padding: 10px;
+    padding: 0px;
     margin: 2px;
     border-radius: 5px;
     transition: background .35s ease;
@@ -34,7 +34,7 @@ imageshadow: true
 
 .actress-info img {
 	width: 170px;
-	border-radius: 10%;
+	border-radius: 5%;
 	display: inline-block;
 	vertical-align: middle;
 }
@@ -61,11 +61,9 @@ imageshadow: true
 }
 
 @media (max-width: 1290px) {
-	
 	.actress-pic {
 		display: block;
 	}
-	
 	.actress-info {
 		text-align: center;
 	}
@@ -73,35 +71,20 @@ imageshadow: true
 		margin-left: 0;
 		margin-top: 5px
 	}
-	
 	.actress-box a {
 		width: calc(100% * (1/3) - 10px - 1px)
-
 	}
-  
 }
 
 @media (max-width: 640px) {
-	
 	.actress-pic {
 		display: inline-block;
 	}
-	
 	.actress-box a {
 		width: calc(100% * (1/2) - 10px - 1px)
 	}
   
 }
-@media (max-width: 568px) {
-  
-	.container .site-content .content-area {
-		width: 100%;
-	}
-	#primary ul li {
-		width: 100%;
-		float: left;
-	}   
-}  
 	
 	.actress-name:hover {
 		color: pink!important;
@@ -113,17 +96,9 @@ a {
 	
 span.actress-info:hover {
 		color: pink!important;
-	}   
-	
-	.page-numbers.current {
-    color: ;
-    color: grey!important;
-    background: #3e3e3e;
-    border: 0px;
-}
-	
+	}
 </style>
-
+t
 <div class="actress-page">
 <div class="actress-box">
 <a href="/tags#Haruna-Hana">
