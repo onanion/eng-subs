@@ -31,7 +31,7 @@ imageshadow: true
 .anim {
     float: left;
     margin: 5px;
-    border: 1px solid #CCC;
+    border: 1px solid #000;
     border-radius: 3px;
     position: relative;
     width: 122px;
@@ -64,10 +64,9 @@ imageshadow: true
     white-space: nowrap;
 }
 </style>
-p<br/>
+pd<br/>
 
 <div id='recomanim'>
-<center>
 <div class='anim'>
 <span class='stat ongo'>Ongoing</span>
 <a href='#'>
@@ -117,7 +116,6 @@ p<br/>
 <p>Amagi Brilliant Park</p>
 </a>
 </div>
-</center>
 </div>
 
 <br />
