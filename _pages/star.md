@@ -64,8 +64,10 @@ imageshadow: true
     white-space: nowrap;
 }
 </style>
-<center>
+p<br/>
+
 <div id='recomanim'>
+<center>
 <div class='anim'>
 <span class='stat ongo'>Ongoing</span>
 <a href='#'>
@@ -115,8 +117,7 @@ imageshadow: true
 <p>Amagi Brilliant Park</p>
 </a>
 </div>
-</div>
 </center>
+</div>
 
 <br />
-y
