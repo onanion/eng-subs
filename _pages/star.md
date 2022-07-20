@@ -33,8 +33,8 @@ imageshadow: true
     margin: 5px;
     border: none;
     position: relative;
-    width: 129px;
-    height: 178px;
+    width: 139px;
+    height: 188px;
     overflow: hidden;
 }
 .stat.ongo {
@@ -63,7 +63,7 @@ imageshadow: true
     white-space: nowrap;
 }
 </style>
-pd<br/>
+pdd<br/>
 
 <div id='recomanim'>
 <div class='anim'>
