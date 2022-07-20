@@ -26,12 +26,12 @@ imageshadow: true
     border-radius: 5px;
     transition: background .35s ease;
 	text-align: center;
-	height: 245px;
+	height: 295px;
 	border-bottom: 15px;
 }
 
 .actress-info img {
-	width: 170px;
+	width: 175px;
 	border-radius: 5%;
 	display: inline-block;
 	vertical-align: middle;
