@@ -16,14 +16,14 @@ imageshadow: true
 
 .actress-box a {
     display: inline-block;
-    margin:10px 0 0 10px;
+
     flex-grow: 1; 
     width: calc(100% * (1/5) - 10px - 1px)
 
 }
 
 .actress-info {
-    padding: 0px;
+    padding: 10px;
     margin: 2px;
     border-radius: 5px;
     transition: background .35s ease;
@@ -98,7 +98,7 @@ span.actress-info:hover {
 		color: pink!important;
 	}
 </style>
-t
+te
 <div class="actress-page">
 <div class="actress-box">
 <a href="/tags#Haruna-Hana">
