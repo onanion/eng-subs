@@ -7,6 +7,80 @@ image:
 imageshadow: true
 ---
 <style>
+	.text-center {
+    text-align: center;
+}
+a.btn.btn-success.btn-lg {
+    margin: 1rem auto;
+    background: #0c70de !important;
+    font-size: 1.5em;
+    color: #fff;
+    padding: 1rem 2rem;
+    border-radius: 30px;
+    position: relative;
+    overflow: hidden;
+    display: inline-block;
+}
+.row .col-md-8 {
+    width: 66.66666667%;
+		float: left;
+}
+.row .col-md-4 {
+    float: left;
+    width: 25%;
+}
+.col-md-3.col-sm-3{
+    width: calc(25% - 14px);
+    margin: 0 7px 14px;
+    float: left;
+    background: #2a2c31;
+    border-radius: 0;
+    position: relative;
+}
+.col-md-3.col-sm-3 article.article a img {
+    width: 100%;
+    height: 100%;
+    max-height: 233px;
+}
+.content, .section .container-fluid {
+    overflow: hidden;
+    max-width: 1220px;
+    margin: 0 auto;
+    position: relative;
+}
+.row .wp-pagenavi {
+    clear: both;
+    text-align: center;
+    margin: auto;
+    padding: 30px 0;
+}
+span.current {
+    width: 17px !important;
+    height: 14px;
+    color: black;
+    background: #fff 5px;
+    padding: 5px 10px;
+    border-radius: 9px;
+}
+.col-md-3.col-sm-3 article.article {
+    height: auto;
+}
+@media only screen and (max-width: 768px){
+.row .col-md-8 {
+    width: 100%;
+}
+.row .col-md-4 {
+    width: 100%;
+}
+	.col-md-3.col-sm-3 {
+    width: calc(50% - 14px);
+}
+.col-md-3.col-sm-3 article h4 {
+    margin: 8px 0;
+}
+
+}
+
         .bs.styleegg {
             width: 25%
         }
@@ -92,7 +166,7 @@ imageshadow: true
             color: #89beff
         }
 </style>
-
+12
 
 <article class="bs styleegg" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
     <div class="bsx"> <a href="https://oploverz.to/movie/one-piece-gfqsgfllib/" itemprop="url" class="tip" rel="725" data-hasqtip="0" oldtitle="One Piece Episode 1013 Subtitle Indonesia" title="">
