@@ -7,114 +7,189 @@ image:
 imageshadow: true
 ---
 <style>
-#recomanim {
-    margin: 1% 1% 0px;
+
+.actress-box {
+    display: flex;
+    flex-wrap:wrap;
+    margin:-10px 0 0 -10px;
 }
-.stat {
-    position: absolute;
-    z-index: 10;
-    color: #FFF;
-    padding: 3px 6px;
-    font-size: 10px;
-    border-radius: 3px;
-    top: 5px;
-    right: 5px;
+
+.actress-box a {
+    display: inline-block;
+    margin:10px 0 0 10px;
+    flex-grow: 1; 
+    width: calc(100% * (1/5) - 10px - 1px)
+
 }
-.recobox {
-    margin-bottom: 20px;
-    padding: 5px;
-    background-image: linear-gradient(to bottom, #E8E8E8 0px, #F5F5F5 100%);
-    background-repeat: repeat-x;
-    border: 1px solid #DBDBDB;
-    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.05) inset, 0px 1px 0px rgba(255, 255, 255, 0.1);
+
+.actress-info {
+    padding: 10px;
+    margin: 2px;
+    border-radius: 5px;
+    transition: background .35s ease;
+	text-align: center;
+	height: 345px;
+	border-bottom: 15px;
 }
-.anim {
-    float: center;
-    margin: 5px;
-    border: none;
-    position: relative;
-    width: 149px;
-    height: 198px;
-    overflow: hidden;
+
+.actress-info img {
+	width: 170px;
+	border-radius: 10%;
+	display: inline-block;
+	vertical-align: middle;
 }
-.stat.ongo {
-    background: none repeat scroll 0% 0% #3B5CA3;
+
+.actress-details {
+	margin-top: 5px;
 }
-.anim a {
+
+.actress-details span {
     display: block;
-    font-size: 0px;
-}
-.anim img {
-    width: 100%;
-    height: 100%;
-}
-.anim p {
-    margin: 0px;
-    font-size: 11px;
-    background: none repeat scroll 0% 0% rgba(0, 0, 0, 0.5);
-    color: #FFF;
-    position: absolute;
-    bottom: 0px;
-    z-index: 200;
-    padding: 4px 6px 5px;
-    width: 110px;
+    white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
-    white-space: nowrap;
 }
+.actrees-name {
+	font-size: 18px;
+    font-family: 'Spartan', sans-serif;
+    letter-spacing: -1.8px;
+    padding-bottom: 4px;
+}
+
+.actress-pic {
+	display: inline-block;
+}
+
+@media (max-width: 1290px) {
+	
+	.actress-pic {
+		display: block;
+	}
+	
+	.actress-info {
+		text-align: center;
+	}
+	.actress-details {
+		margin-left: 0;
+		margin-top: 5px
+	}
+	
+	.actress-box a {
+		width: calc(100% * (1/3) - 10px - 1px)
+
+	}
+  
+}
+
+@media (max-width: 640px) {
+	
+	.actress-pic {
+		display: inline-block;
+	}
+	
+	.actress-box a {
+		width: calc(100% * (1/2) - 10px - 1px)
+	}
+  
+}
+@media (max-width: 568px) {
+  
+	.container .site-content .content-area {
+		width: 100%;
+	}
+	#primary ul li {
+		width: 100%;
+		float: left;
+	}   
+}  
+	
+	.actress-name:hover {
+		color: pink!important;
+	}   
+	
+a {
+    color: #111f2e;
+}
+	
+span.actress-info:hover {
+		color: pink!important;
+	}   
+	
+	.page-numbers.current {
+    color: ;
+    color: grey!important;
+    background: #3e3e3e;
+    border: 0px;
+}
+	
 </style>
-pdddd<br/>
 
-<div id='recomanim'>
-<div class='anim'>
-<span class='stat ongo'>Ongoing</span>
-<a href='#'>
-<img src='https://3.bp.blogspot.com/-pgOYhL93t_8/XkvYBi_YbfI/AAAAAAAACSQ/S1NfBWCylm0CMcxDjfu1WxuJzy1-85PxACNcBGAsYHQ/s400-rw/oresuki.jpg' title='Akame ga Kill!!'/>
-<p>Akame ga Kill!!</p>
+<div class="actress-page">
+<div class="actress-box">
+<a href="https://jav.guru/actress/hatano-yui/">
+<div class="actress-info">
+<div class="actress-pic">
+<img src="https://cdn.javsts.com/wp-content/uploads/2016/10/631323.jpg" alt="Hatano Yui">
+</div>
+<div class="actress-details">
+<span class="actrees-name">Hatano Yui</span>
+<span style=color:#7664bf>波多野結衣</span>
+<span style="color:#b7903f">34 years old</span>
+<span style=color:black;font-weight:bolder;><i class="video"></i> 337 videos</span>
+</div>
+</div>
+</a>
+<a href="https://jav.guru/actress/shinoda-yuu/">
+<div class="actress-info">
+<div class="actress-pic">
+<img src="https://cdn.javsts.com/wp-content/uploads/2022/06/504478.jpg" alt="Shinoda Yuu">
+</div>
+<div class="actress-details">
+<span class="actrees-name">Shinoda Yuu</span>
+<span style=color:#7664bf>篠田ゆう</span>
+<span style="color:#b7903f">31 years old</span>
+<span style=color:black;font-weight:bolder;><i class="video"></i> 297 videos</span>
+</div>
+</div>
+</a>
+<a href="https://jav.guru/actress/julia/">
+<div class="actress-info">
+<div class="actress-pic">
+<img src="https://cdn.javsts.com/wp-content/uploads/2022/06/305758.jpg" alt="Julia">
+</div>
+<div class="actress-details">
+<span class="actrees-name">Julia</span>
+<span style=color:#7664bf>JULIA</span>
+<span style="color:#b7903f">35 years old</span>
+<span style=color:black;font-weight:bolder;><i class="video"></i> 272 videos</span>
+</div>
+</div>
+</a>
+<a href="https://jav.guru/actress/nagisa-mitsuki/">
+<div class="actress-info">
+<div class="actress-pic">
+<img src="https://cdn.javsts.com/wp-content/uploads/2022/06/710961.jpg" alt="Nagisa Mitsuki">
+</div>
+<div class="actress-details">
+<span class="actrees-name">Nagisa Mitsuki</span>
+<span style=color:#7664bf>渚みつき</span>
+<span style="color:#b7903f">24 years old</span>
+<span style=color:black;font-weight:bolder;><i class="video"></i> 265 videos</span>
+</div>
+</div>
+</a>
+<a href="https://jav.guru/actress/tsubomi/">
+<div class="actress-info">
+<div class="actress-pic">
+<img src="https://cdn.javsts.com/wp-content/uploads/2022/06/432853.jpg" alt="Tsubomi">
+</div>
+<div class="actress-details">
+<span class="actrees-name">Tsubomi</span>
+<span style=color:#7664bf>つぼみ （つぼみ / Tsubomi）</span>
+<span style="color:#b7903f">35 years old</span>
+<span style=color:black;font-weight:bolder;><i class="video"></i> 253 videos</span>
+</div>
+</div>
 </a>
 </div>
-<div class='anim'>
-<span class='stat ongo'>Ongoing</span>
-<a href='#'>
-<img src='https://blogger.googleusercontent.com/img/a/AVvXsEg6zrqrCnJtamu09qsUz2UAFD_hz2788RGi93dthvB8S20DB_r8o74IE9SNWwDkn_FxjWAFwZzfR_h3k1EvDoB0Gonq__1SfWh9xl2jZ02QD0HitmN8DZHVsidXp1D4YAC0wYtcly60v5iAjxx_YweZlXR4nTSn_KVx3TU4f3NOE6coqhtYQpjvskEWiw=s400-rw' title='Amagi Brilliant Park'/>
-<p>Amagi Brilliant Park</p>
-</a>
 </div>
-<div class='anim'>
-<span class='stat ongo'>Ongoing</span>
-<a href='#'>
-<img src='https://blogger.googleusercontent.com/img/a/AVvXsEi5xt8lpdZClyDzvQTvobJjHYIy29YMsYfz3u6-09uRGrptu9nsIeeDBoHikuESGUUOjyLlPOBif2UZZ8yWLxObC1urIdqYw3_Yre4_vzFEBNjzbZodU5DBCTlnGo25azC3zDoE2HoVyT3Hel8f5eaPZQhbMCCn6BTdPTBBY8B2krrZjcQTephi11j-wA=s400-rw' title='Daitoshokan no Hitsujikai'/>
-<p>Daitoshokan no Hitsujikai</p>
-</a>
-</div>
-<div class='anim'>
-<span class='stat ongo'>Ongoing</span>
-<a href='#'>
-<img src='https://blogger.googleusercontent.com/img/a/AVvXsEg6zrqrCnJtamu09qsUz2UAFD_hz2788RGi93dthvB8S20DB_r8o74IE9SNWwDkn_FxjWAFwZzfR_h3k1EvDoB0Gonq__1SfWh9xl2jZ02QD0HitmN8DZHVsidXp1D4YAC0wYtcly60v5iAjxx_YweZlXR4nTSn_KVx3TU4f3NOE6coqhtYQpjvskEWiw=s400-rw' title='Amagi Brilliant Park'/>
-<p>Amagi Brilliant Park</p>
-</a>
-</div>
-<div class='anim'>
-<span class='stat ongo'>Tamat</span>
-<a href='#'>
-<img src='https://blogger.googleusercontent.com/img/a/AVvXsEjzDo8LZSfoGAVq6NKsGa6VXC8SZUvtVheYhLi3U8tXD5aX_ANdTgi1yQpnF0CmvO-6JXGR7j22zgrHzFCEkvSIOLDwG78gAaBp0BUmyMSYWBDSOZ7ZngvvgLzS4N_e_hqp9Ar3NFPlayOjvM2VTel6wFQUMm-PEeOIl7i5zNtPs5fgQJt6GXIoKVkePA=s400-rw' title='Sword Art Online II'/>
-<p>Sword Art Online II</p>
-</a>
-</div>
-<div class='anim'>
-<span class='stat ongo'>Ongoing</span>
-<a href='#'>
-<img src='https://3.bp.blogspot.com/-pgOYhL93t_8/XkvYBi_YbfI/AAAAAAAACSQ/S1NfBWCylm0CMcxDjfu1WxuJzy1-85PxACNcBGAsYHQ/s400-rw/oresuki.jpg' title='Akame ga Kill!!'/>
-<p>Akame ga Kill!!</p>
-</a>
-</div>
-<div class='anim'>
-<span class='stat ongo'>Ongoing</span>
-<a href='#'>
-<img src='https://blogger.googleusercontent.com/img/a/AVvXsEg6zrqrCnJtamu09qsUz2UAFD_hz2788RGi93dthvB8S20DB_r8o74IE9SNWwDkn_FxjWAFwZzfR_h3k1EvDoB0Gonq__1SfWh9xl2jZ02QD0HitmN8DZHVsidXp1D4YAC0wYtcly60v5iAjxx_YweZlXR4nTSn_KVx3TU4f3NOE6coqhtYQpjvskEWiw=s400-rw' title='Amagi Brilliant Park'/>
-<p>Amagi Brilliant Park</p>
-</a>
-</div>
-</div>
-
-<br />
