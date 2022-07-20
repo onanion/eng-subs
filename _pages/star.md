@@ -31,7 +31,7 @@ imageshadow: true
 }
 
 .actress-info img {
-	width: 175px;
+	width: 270px;
 	border-radius: 5%;
 	display: inline-block;
 	vertical-align: middle;
