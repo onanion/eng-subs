@@ -31,11 +31,10 @@ imageshadow: true
 .anim {
     float: left;
     margin: 5px;
-    border: 1px solid #000;
-    border-radius: 3px;
+    border: none;
     position: relative;
-    width: 122px;
-    height: 171px;
+    width: 129px;
+    height: 178px;
     overflow: hidden;
 }
 .stat.ongo {
