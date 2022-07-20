@@ -64,7 +64,7 @@ imageshadow: true
     white-space: nowrap;
 }
 </style>
-
+<center>
 <div id='recomanim'>
 <div class='anim'>
 <span class='stat ongo'>Ongoing</span>
@@ -116,3 +116,5 @@ imageshadow: true
 </a>
 </div>
 </div>
+</center>
+<br/>
