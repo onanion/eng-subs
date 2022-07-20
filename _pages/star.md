@@ -1,3 +1,12 @@
+---
+layout: page
+title: Star
+permalink: /star
+comments: false
+image: 
+imageshadow: true
+---
+<style>
 body {
     background:#333;
 }
@@ -57,6 +66,7 @@ body {
     text-overflow: ellipsis;
     white-space: nowrap;
 }
+</style>
 
 <div id='recomanim'>
 <div class='anim'>
