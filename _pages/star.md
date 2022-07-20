@@ -24,22 +24,19 @@ imageshadow: true
     padding: 10px;
     margin: 2px;
     border-radius: 5px;
-    
+    transition: background .35s ease;
+	text-align: center;
+	height: 345px;
+	border-bottom: 15px;
 }
 
-.actress-info {
-	float: left;
-    margin: 5px;
-    position: relative;
-    width: 122px;
-    height: 171px;
-    overflow: hidden;
-}
-}
 .actress-info img {
-	width: 100%;
-	height: 100%;
+	width: 170px;
+	border-radius: 10%;
+	display: inline-block;
+	vertical-align: middle;
 }
+
 
 .actress-details {
 	margin-top: 5px;
@@ -100,7 +97,7 @@ span.actress-info:hover {
 		color: pink!important;
 	}
 </style>
-teslluu
+
 <div class="actress-page">
 <div class="actress-box">
 <a href="/tags#Haruna-Hana">
