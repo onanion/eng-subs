@@ -21,7 +21,7 @@ imageshadow: true
 }
 
 .actress-info {
-    padding: 5px;
+    padding: 10px;
     margin: 2px;
     border-radius: 5px;
     transition: background .35s ease;
