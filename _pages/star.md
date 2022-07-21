@@ -229,4 +229,14 @@ span.actress-info:hover {
 </div>
 </div>
 </a>
+<a href="/tags#Ono-Yuuko-AOI">
+<div class="actress-info">
+<div class="actress-pic">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyQhKdzdCFL_vfT5chEEWVbcoRbXpo_-ZCsw87PysXjbk5JyZufjrIiUrRxyi2Pn3i_IXtFVjHC0Jd7tGB2bdYX3sj6o97aUoYA-l_pqSGo5RRa8lCVTI2eGhsptEqOcASJcH8Gy962DrUiHeHkc4SU4z__gYuI4R2SCT5dPWNPcq-9fEzL6TBSYy6/s1600/images%20%2811%29.jpeg" alt="Ono Yuuko (AOI)">
+</div>
+<div class="actress-details">
+<span class="actrees-name">Ono Yuuko (AOI)</span>
+</div>
+</div>
+</a>
 </div>
