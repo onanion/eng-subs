@@ -289,4 +289,14 @@ span.actress-info:hover {
 </div>
 </div>
 </a>
+<a href="/tags#Yoshine-Yuria">
+<div class="actress-info">
+<div class="actress-pic">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAnDH8Z2b9eJtRzS3u9uF4tTSqhlbNbjJb0I85IWjMlp4NNMV-PAfKrUwVj6OAYZpa2yuzS6cYd5Fqc8b4gO8tBhXAdum1OMTGX55OhKcVHYOCe3EmhggjNX8l1RnCmj3fDptA4qpwIKvVj_OJlOuFOIjEVLCwrEkuWfjMug2v5CMeEoYEtlyWnZXW/s1600/E-PlZVKVIAAn3CQ.jpg" alt="Yoshine Yuria">
+</div>
+<div class="actress-details">
+<span class="actrees-name">Yoshine Yuria</span>
+</div>
+</div>
+</a>
 </div>
