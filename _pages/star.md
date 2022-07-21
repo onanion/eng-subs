@@ -239,4 +239,14 @@ span.actress-info:hover {
 </div>
 </div>
 </a>
+<a href="/tags#Aoi-Yurika">
+<div class="actress-info">
+<div class="actress-pic">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP0kdR9KBwSWogq7jEAydeT43Kks8pN3wSU7YrmEkifDQExBLGLj-CNhcwG0iXE4KuQsy2Dx7lyqooabFYEOo8wHZgCIDlZroVe4HTjhcTEdKaPQO3ySra_Adr9Jt2Nf62mcrRmW4GOjcnaVJAktIy486qlUPzh9uW3sMsLT90IDrl9rTlDjgSr57N/s1600/images%20%283%29.jpeg" alt="Aoi Yurika">
+</div>
+<div class="actress-details">
+<span class="actrees-name">Aoi Yurika (AOI)</span>
+</div>
+</div>
+</a>
 </div>
