@@ -245,7 +245,17 @@ span.actress-info:hover {
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP0kdR9KBwSWogq7jEAydeT43Kks8pN3wSU7YrmEkifDQExBLGLj-CNhcwG0iXE4KuQsy2Dx7lyqooabFYEOo8wHZgCIDlZroVe4HTjhcTEdKaPQO3ySra_Adr9Jt2Nf62mcrRmW4GOjcnaVJAktIy486qlUPzh9uW3sMsLT90IDrl9rTlDjgSr57N/s1600/images%20%283%29.jpeg" alt="Aoi Yurika">
 </div>
 <div class="actress-details">
-<span class="actrees-name">Aoi Yurika (AOI)</span>
+<span class="actrees-name">Aoi Yurika</span>
+</div>
+</div>
+</a>
+<a href="/tags#Amami-Tsubasa">
+<div class="actress-info">
+<div class="actress-pic">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2E6_dKLcDcxdCH9qK2EpuYn4D76DPKAAbNUhmXzAAKDAxIwy-iMKtkEoZuWGWUdtAB5tg3WJiK-H5xTgVZnbLVgvV0OiP9QQ1HAcSjQqmef67E4jFre_CHllFevC60htvw7GfIuN8-bG4iSI1Fdh-YPqjGnoGOJ60crYX8Eul-RI81juJPBMKaHOd/s1600/images%20%285%29.jpeg" alt="Amami Tsubasa">
+</div>
+<div class="actress-details">
+<span class="actrees-name">Amami Tsubasa</span>
 </div>
 </div>
 </a>
