@@ -6,20 +6,16 @@ comments: false
 image: 
 imageshadow: true
 ---
-<style>
-
-.actress-box {
+<style>.actress-box {
     display: flex;
     flex-wrap:wrap;
     margin:-10px 0 0 -10px;
 }
-
 .actress-box a {
     display: inline-block;
     flex-grow: 1; 
     width: calc(100% * (1/5) - 10px - 1px)
 }
-
 .actress-info {
     padding: 10px;
     margin: 2px;
@@ -29,19 +25,15 @@ imageshadow: true
 	height: 345px;
 	border-bottom: 15px;
 }
-
 .actress-info img {
 	width: 170px;
 	border-radius: 10%;
 	display: inline-block;
 	vertical-align: middle;
 }
-
-
 .actress-details {
 	margin-top: 5px;
 }
-
 .actress-details span {
     display: block;
     white-space: nowrap;
@@ -54,7 +46,6 @@ imageshadow: true
     letter-spacing: -1.8px;
     padding-bottom: 4px;
 }
-
 .actress-pic {
 	display: inline-block;
 }
@@ -92,7 +83,6 @@ imageshadow: true
 a {
     color: #000;
 }
-
 span.actress-info:hover {
 		color: pink!important;
 	}
@@ -149,23 +139,23 @@ span.actress-info:hover {
 </div>
 </div>
 </a>
-<a href="/tags#Haruna-Hana">
+<a href="/tags#Natsuki-Maron">
 <div class="actress-info">
 <div class="actress-pic">
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh45y-sSDkukkT2sHjI5C1ytFFUkOz1TlZCebUFyBtrn5UBY2fC1lNluTET5qK74t5ffXo1VMZPBdTKt027KNcKdhNrR622XcMYQKWFCsMGhoIkL6BRXvVxJs4P4lruJ6TSUnqv_fk5ctTpvrvdNGrw6h32Au3MV_fV04WqwBxpuEeUGKtecnbhCdp9/s1600/Hana-Haruna-Dien-vien-JAV-co-bo-nguc-cuon-hut-nhat-lang-phim-18-1-768x1024.jpg" alt="Haruna Hana">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5cJ-edmfPvM9oBgWL5ylvEE8nS1dXlS3x21z9Qje4DKScX_9oBbxM86wwnF5mGHCyOwB_5mc4u82CPsPCulQcqSChxkM090i3tBYEahUMJzd3r1A2CosCzLETGwaPZ3zV_1VYvc_f0PHtPcFe0ivvt7tPsBZ-6RbU7_5hhGi3t4SUPHNk3_DXgbqS/s1600/images%20%286%29.jpeg" alt="Natsuki Maron">
 </div>
 <div class="actress-details">
-<span class="actrees-name">Haruna Hana</span>
+<span class="actrees-name">Natsuki Maron</span>
 </div>
 </div>
 </a>
-<a href="/tags#Kano-Hana">
+<a href="/tags#Anzai-Rara-RION">
 <div class="actress-info">
 <div class="actress-pic">
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgb2depRZ-I-EJ9jP_agVgf66S2mmInZbNILBdn9I6c3lc8l9MlJhH4puL5SBhT61zcGpp1h2YEqe1BwBbvFSxu-65O7yjWRApHCH_npXzmB7lFdPVsfCgB6wkvZUFrd8qpfpgPjFw49dH8qM2dDSPA-h737vhjR1VteO3G41ZOODqlzNRm4RLNaNQ9/s1600/99031C445C68B1BD2D.jpeg" alt="Kano Hana">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJoy_MfNZC3aIcb5CH1rV9nmi-K2gx8HOWeCn_zdw1Q7wO6elTrHZqeloRbpM3l4Ckbe1To4tNtWmBCtsKJ_riVP9FSMIoS7delcwThR5dQewvoZdAWnvWgKhqjZwVohHciOewXi7h5AJo13MU3FVNQplSuV5fTerlGylWSe9OHBL_4ti0WZi8rlra/s1600/740full-shion-utsunomiya.jpg" alt="Anzai Rara (RION)">
 </div>
 <div class="actress-details">
-<span class="actrees-name">Kano Hana</span>
+<span class="actrees-name">Anzai Rara (RION)</span>
 </div>
 </div>
 </a>
