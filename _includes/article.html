@@ -1,16 +1,24 @@
 <!-- Post, Page Content
 ================================================== -->
+test1
 <div class="article-post">
+test2
     <!-- Toc if any -->
     {% if page.toc %}
     {% if page.beforetoc %}
         <p><em>{{page.beforetoc}}</em></p>
+test3
     {% endif %}
     <div class="toc mt-4 mb-4 lead">
         <h3 class="font-weight-bold">Summary</h3>
+test4
         {% include toc.html html=content %}
     </div>
+test5
     {% endif %}
     <!-- End Toc -->
+test6
     {{content}}
+test7
 </div>
+test8
