@@ -6,6 +6,7 @@ title: Onanion
 <!-- Posts Index
 ================================================== -->
 <div class="blog-grid-container">
+    {% for post in paginator.posts %}
 <center>
 <!-- JuicyAds v3.1 -->
 <script type="text/javascript" data-cfasync="false" async src="https://poweredby.jads.co/js/jads.js"></script>
@@ -13,7 +14,6 @@ title: Onanion
 <script type="text/javascript" data-cfasync="false" async>(adsbyjuicy = window.adsbyjuicy || []).push({'adzone':983437});</script>
 <!--JuicyAds END-->
 <center>
-    {% for post in paginator.posts %}
         {% include postbox.html %}
     {% endfor %}
 </div>
