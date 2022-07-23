@@ -359,4 +359,14 @@ span.actress-info:hover {
 </div>
 </div>
 </a>
+<a href="/tags#Yumi-Shion">
+<div class="actress-info">
+<div class="actress-pic">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2uQk9A71HBNs8Byjr2M3woY-Tu0JbIMELN5xrbShfwTFA75SRD5KsMteerePwzmOe0d3RTzHi9APvB4l9LLukcqbQtTnr0hSP9I5PdeePCtKUk8p6bUporn017qWGQ3UqrGeJ2EvSwaj-abqmGnexPoiOhYsn0xa7az9RqG3j-Fh8IT-eW0XAgl_-/s1600/images%20%283%29.jpeg" alt="Yumi Shion">
+</div>
+<div class="actress-details">
+<span class="actrees-name">Yumi Shion</span>
+</div>
+</div>
+</a>
 </div>
