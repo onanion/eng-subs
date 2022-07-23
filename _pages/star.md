@@ -162,7 +162,7 @@ span.actress-info:hover {
 <a href="/tags#Kitano-Mina">
 <div class="actress-info">
 <div class="actress-pic">
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoCLibON8pdTJOcLC1gbNUJM3EFJ1JGqT9RVx2CUz21QVBbt75fU4PD7_VwpluRED9Jz-bqoEBXFJo5faFFSOEHKuad6y25aedJ6o927bbCOgfDepZpUlI5lkVGY4t0p8vN_iRSdfP70CQSwVFBG2mXKedkttITpsIRirvHlzdBa5dFGSqAh4QgXTM/s1600/FEm1Q4xXsAMvzWp.jpg" alt="Kitano Mina">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk4Rw3ToRRd5rZ0xbE96Wg49IoDi_O_glnrlEHLO34zon8OiBmK7EFe23HLmXlZS2rC7WtTd2Jlch-96-5O0TBRgJPqLUKGJA4CiKQk-072c3_0TQnApoI7QFQ2SkVjfMOq3dQHNkdQHxMJ_zVmW1LggaqkcW2ZT4-W2As3D-AD5jayOR47_hON4IU/s1600/Tak%20berjudul2_20220723144336.png" alt="Kitano Mina">
 </div>
 <div class="actress-details">
 <span class="actrees-name">Kitano Mina</span>
