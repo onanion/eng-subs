@@ -349,4 +349,14 @@ span.actress-info:hover {
 </div>
 </div>
 </a>
+<a href="/tags#Hatsune-Minori">
+<div class="actress-info">
+<div class="actress-pic">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1umeBul63VjVgYMHFghB8m_orBTfbo6i53n-iBIGUVvtuF6ugzvU0A9Cc9z6urcNOVHmFtWtaAeFQmdz8ccdpvEZIBYnvPbkidcQjibWTnYbcU6uDqgbBjA49yiqLZ6vqfbiewe4uiIUkmbUDUULXCTfhjLw9cR7lMLP7lzHFYMyDijg315Qssuh_/s1600/dien-vien-jav-minori-hatsune-3.jpg" alt="Hatsune Minori">
+</div>
+<div class="actress-details">
+<span class="actrees-name">Hatsune Minori</span>
+</div>
+</div>
+</a>
 </div>
