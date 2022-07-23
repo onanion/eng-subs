@@ -339,4 +339,14 @@ span.actress-info:hover {
 </div>
 </div>
 </a>
+<a href="/tags#Kano-Ai">
+<div class="actress-info">
+<div class="actress-pic">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8rvFx4PYvXVto8-84tno5hY3UIqJ7CwnEhxzRr-aSMVZhHpsE46sC0RBzFgfrqeg3kVnSG5jgza5WKG7fdPy5TrckBe2D0HNpZbR7CWpI5fp-AoSZGyHLxwWFRBTZCkr2xjo3h25BAf1fMGZAj37ackeP0-gMh9DXKrlcPiTRlQwcrkqVxxBVh7QI/s1600/En5m0U7VkAE6YTG.jpg" alt="Kano Ai">
+</div>
+<div class="actress-details">
+<span class="actrees-name">Kano Ai</span>
+</div>
+</div>
+</a>
 </div>
