@@ -37,7 +37,7 @@ post_class: post-template
 
     <!-- Site Tag
     ================================================== -->
-    {% if page.url == '/' %}
+    {% if page.url == '{{ site.baseurl }}/' %}
         <p class="sitetag">
             {{ site.description }}
         </p>
