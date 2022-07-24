@@ -5,20 +5,35 @@
 **Home 728x90**
 /_layouts/default.html
 -penempatan
-<!-- Site Logo/Name
-    ================================================== -->
-xxx
-    <!-- Site Tag
-    ================================================== -->
+    <!-- Ads Home
+
     {% if page.url == '/' %}
-        <p class="sitetag">
 <center>
 <a href="#" target="_blank">
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7t3p34bLv02do5hWhikN27RDdQ-bHCXDTPJDlI7XvmMdmsPe757kNilcJt7cgNSGg7BXS9-4bRtQ8cskWyl6zWmAvJQ-y7H2XzvPl83unFf5DXR9SFIzzXnZ8ddz3FMWVwpzMeA0kKDiPIkFhJweUdkTLPtQggS-dLkbRaDt47V9BNmDpMKbuLJI7/s1600/20220724_144458_0000.png" alt="adv">
 </a>
 </center>
-        </p>
     {% endif %}
+
+**Home 468x60**
+/_layouts/default.html
+-penempatan
+    <!-- Ads Home
+
+{% if page.url == '/' %}
+<div class="row">
+            <div class="col-md-6 col-sm-12 text-center text-lg-left" style="padding-bottom:5px;">
+            <a href="#" target="_blank">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-pFIwx4G-yCCFebt1C67CrINkFun1AnprhkD3D_9ZfhbX_Mxt2TSUVO8hutsKSUiGXH0ZLhino6105lc7P-ex9wpciHLjBlCb8KTZCXgi_KPYSbdNgOq0YLm_saWg1MSHo94r1QEqhU3gJsBN17LYpUjzn35UzP2pRqaBmu24gc2Zmal3AOGC6KWN/s1600/20220724_153347_0000.png" alt="adv">
+</a>
+            </div>
+            <div class="col-md-6 col-sm-12 text-center text-lg-right" style="padding-bottom:5px;">    
+                <a href="#" target="_blank">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-pFIwx4G-yCCFebt1C67CrINkFun1AnprhkD3D_9ZfhbX_Mxt2TSUVO8hutsKSUiGXH0ZLhino6105lc7P-ex9wpciHLjBlCb8KTZCXgi_KPYSbdNgOq0YLm_saWg1MSHo94r1QEqhU3gJsBN17LYpUjzn35UzP2pRqaBmu24gc2Zmal3AOGC6KWN/s1600/20220724_153347_0000.png" alt="adv">
+</a>
+            </div>
+</div>
+{% endif %}
 
 **Home 800x538**
 /index.html
