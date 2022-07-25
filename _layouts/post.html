@@ -7,13 +7,13 @@ post_class: post-template
 
 <div class="entry-header">
 
-    <!-- Author & Date  Box -->
+<!-- Author & Date  Box -->
     
 </div>
 
 <!-- Adsense under title if enabled from _config.yml (change your pub id and slot) -->
 {% if site.adsense == "enabled" %}
-    {% include adsense-under-header.html %}
+{% include adsense-under-header.html %}
 {% endif %}
 
 <!-- Content -->
@@ -22,16 +22,15 @@ post_class: post-template
 <!-- Rating -->
 {% if page.rating %}
 <div class="rating mt-4 mb-4 d-flex align-items-center">
-    <strong class="mr-1">Rating:</strong> {% include star_rating.html %}
+<strong class="mr-1">Rating:</strong> {% include star_rating.html %}
 </div>
 {% endif %}
 
 <!-- Author Box if enabled from _config.yml -->
 {% include author-box.html %}
 
-    <!-- Post Title -->
-    <h2 class="posttitle">{{ page.title }}</h2>
-
+<!-- Post Title -->
+<h2 class="posttitle">{{ page.title }}</h2>
 <!-- Featured Image -->
 {% include featured-image.html %}
 
@@ -48,24 +47,24 @@ post_class: post-template
 https://search.google.com/structured-data/testing-tool/u/0/
 ================================================== -->
 {% if page.rating %}
-    <script type="application/ld+json">
-    {
-    "@context": "http://schema.org/",
-    "@type": "Review",
-    "itemReviewed": {
-    "@type": "Thing",
-    "name": "{{ page.title }}"
-    },
-    "author": {
-    "@type": "Person",
-    "name": "{{ author.display_name }}"
-    },
-    "datePublished": "{{ page.date | date:"%Y-%m-%d" }}",
-    "reviewRating": {
-    "@type": "Rating",
-    "ratingValue": "{{ page.rating }}",
-    "bestRating": "5"
-    }
-    }
-    </script>
+<script type="application/ld+json">
+{
+"@context": "http://schema.org/",
+"@type": "Review",
+"itemReviewed": {
+"@type": "Thing",
+"name": "{{ page.title }}"
+},
+"author": {
+"@type": "Person",
+"name": "{{ author.display_name }}"
+},
+"datePublished": "{{ page.date | date:"%Y-%m-%d" }}",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "{{ page.rating }}",
+"bestRating": "5"
+}
+}
+</script>
 {% endif %}
