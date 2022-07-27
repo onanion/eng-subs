@@ -41,5 +41,6 @@ a.fromLeft:after{  transform-origin:  0% 50%; }
 <p>&#8212; <a class="fromLeft" href='/tags#HZGD' title='HZGD'>HZGD</a></p>
 <p>&#8212; <a class="fromLeft" href='/tags#PPPE' title='PPPE'>PPPE</a></p>
 <p>&#8212; <a class="fromLeft" href='/tags#CJOD' title='CJOD'>CJOD</a></p>
+<p>&#8212; <a class="fromLeft" href='/tags#KSBJ' title='KSBJ'>KSBJ</a></p>
 <p>&#8212; <a class="fromLeft" href='/tags#STARS' title='STARS'>STARS</a></p>
 <p>&#8212; <a class="fromLeft" href='/tags#MIDV' title='MIDV'>MIDV</a></p>
