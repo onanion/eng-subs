@@ -389,4 +389,14 @@ span.actress-info:hover {
 </div>
 </div>
 </a>
+<a href="/tags#Suzuki-Mayu">
+<div class="actress-info">
+<div class="actress-pic">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLudXFWd0vXZiNbPXZ6T9CidqBFuWn-px27JlvjUWxf56SXRS4RzivwyNMByoMqvnCvVf_ix1kz3EbNyTlRIw3C39QhBY4d5qWloPc0YR-r1WAZFSapVqLh4o-0gLTgDYgWrHItw0GNBzE5piX8jlwwyermkiu-I1XBhJezs3vhbdETDA7gPZnT3gc/s1600/Tak%20berjudul2_20220727151249.png" alt="Suzuki Mayu">
+</div>
+<div class="actress-details">
+<span class="actrees-name">Suzuki Mayu</span>
+</div>
+</div>
+</a>
 </div>
