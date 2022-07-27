@@ -7,7 +7,9 @@ image:
 imageshadow: true
 ---
 
-All trademarks and copyrights on this website are owned by their respective parties Opinions belong to the posters. 18+ only website. All actors are 18 or older. Watch online and download the best free JAV.
+**Onanion** adalah sebuah website hiburan yang menyajikan streaming film atau download **JAV** gratis.
+
+Perlu diketahui, film-film yang terdapat pada web ini didapatkan dari web pencarian di internet. Kami tidak menyimpan file film tersebut di server sendiri dan kami hanya menempelkan link-link tersebut di website kami.
 <center>
 <a  href="/" class="btn btn-dark">Watch Now!</a>
 </center>
