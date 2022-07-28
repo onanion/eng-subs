@@ -36,6 +36,7 @@ a.fromLeft:after{  transform-origin:  0% 50%; }
 <p>&#8212; <a class="fromLeft" href='/tags#IPX' title='IPX'>IPX</a></p>
 <p>&#8212; <a class="fromLeft" href='/tags#HMN' title='HMN'>HMN</a></p>
 <p>&#8212; <a class="fromLeft" href='/tags#NKKD' title='NKKD'>NKKD</a></p>
+<p>&#8212; <a class="fromLeft" href='/tags#DASD' title='DASD'>DASD</a></p>
 <p>&#8212; <a class="fromLeft" href='/tags#VEC' title='VEC'>VEC</a></p>
 <p>&#8212; <a class="fromLeft" href='/tags#MIMK' title='MIMK'>MIMK</a></p>
 <p>&#8212; <a class="fromLeft" href='/tags#PKPB' title='PKPB'>PKPB</a></p>
