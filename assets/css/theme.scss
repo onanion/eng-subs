@@ -245,7 +245,7 @@ img, img:hover {
 // blog grid
 .blog-grid-container {
     width: auto;
-    margin: 50px auto;
+    margin: 10px auto;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 1fr;
@@ -294,7 +294,7 @@ img, img:hover {
     .card-footer {
        font-size:14px;
         border-top:0;
-
+        padding: 1rem 1.25rem;
         a {
             color:inherit;
             font-weight:700;
