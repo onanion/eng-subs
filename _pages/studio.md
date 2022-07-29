@@ -26,6 +26,7 @@ a.fromLeft:after{  transform-origin:  0% 50%; }
 <p>&#8212; <a class="fromLeft" href='/tags#TOEN' title='TOEN'>TOEN</a></p>
 <p>&#8212; <a class="fromLeft" href='/tags#PPPD' title='PPPD'>PPPD</a></p>
 <p>&#8212; <a class="fromLeft" href='/tags#SSIS' title='SSIS'>SSIS</a></p>
+<p>&#8212; <a class="fromLeft" href='/tags#JUFE' title='JUFE'>JUFE</a></p>
 <p>&#8212; <a class="fromLeft" href='/tags#JUL' title='JUL'>JUL</a></p>
 <p>&#8212; <a class="fromLeft" href='/tags#KUSE' title='KUSE'>KUSE</a></p>
 <p>&#8212; <a class="fromLeft" href='/tags#JYMA' title='JYMA'>JYMA</a></p>
