@@ -85,5 +85,7 @@ a.fromLeft:after{  transform-origin:  0% 50%; }
 <p>&#8212; <a class="fromLeft" href='/categories#breasts' title='breasts'>breasts</a></p>
 <p>&#8212; <a class="fromLeft" href='/categories#Subjectivity' title='Subjectivity'>Subjectivity</a></p>
 <p>&#8212; <a class="fromLeft" href='/categories#Lotion' title='Lotion'>Lotion</a></p>
+<p>&#8212; <a class="fromLeft" href='/categories#Business-Attire' title='Business Attire'>Business Attire</a></p>
+<p>&#8212; <a class="fromLeft" href='/categories#Pantyhose' title='Pantyhose'>Pantyhose</a></p>
 <p>&#8212; <a class="fromLeft" href='/categories#Hot-Spring' title='Hot Spring'>Hot Spring</a></p>
 <p>&#8212; <a class="fromLeft" href='/categories#Voyeur' title='Voyeur'>Voyeur</a></p>
