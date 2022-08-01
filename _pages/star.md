@@ -409,6 +409,16 @@ span.actress-info:hover {
 </div>
 </div>
 </a>
+<a href="/tags#Shinoda-Yuu">
+<div class="actress-info">
+<div class="actress-pic">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjf6hp3DXsk22KHypQm1U0kd1_4uWeOAnGcHVuez3xjbohDGk2kLQYYdt8DMD_s679a7UQLm7uRcONPQrSX1oHgj_7fzqBpG-L7TNXjlfCJvoXek0Nz57N-X158FRh0_cPZMtTB9JzH4Daalz-t7jlkJnD_WCBqvOAYGMPUZQ8AADmQk6vvWGotoYF2/s1600/Tak%20berjudul2_20220801223858.png" alt="Shinoda Yuu">
+</div>
+<div class="actress-details">
+<span class="actrees-name">Shinoda Yuu</span>
+</div>
+</div>
+</a>
 <a href="/tags#Ichika-Sensei">
 <div class="actress-info">
 <div class="actress-pic">
