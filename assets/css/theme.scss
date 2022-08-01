@@ -628,7 +628,10 @@ position: relative;
 list-style:none;
 height: 30px;
 margin: 0 !important;
-padding: 0 !important
+padding: 0 !important;
+  display: flex;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
 }
 #udltb li {
 list-style:none;
