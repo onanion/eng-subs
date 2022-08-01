@@ -1,5 +1,5 @@
 ---
-layout: label
+layout: categories
 title: Studio
 permalink: /label
 ---
