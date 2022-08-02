@@ -279,6 +279,16 @@ span.actress-info:hover {
 </div>
 </div>
 </a>
+<a href="/tags#Yoshinaga-Konomi">
+<div class="actress-info">
+<div class="actress-pic">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXtnM_Umm8txFKJKVR_Wtk2O7v3_EKBjpHz2uy-CSIMzpZMB_BpNkmWrY0egRDHE0KigWCqhRzXcwntfi7aZM7BFpuVn8OIa9Onwim3BW7YpaHU_B86S4X6lQhSYmy2xcchnvJc9-yv_vG82IAFbQU22rsH3Mzi6ZpSRBRuYNsU0AgrSS28nKnl2hn/s1600/Tak%20berjudul2_20220802151125.png" alt="Yoshinaga Konomi">
+</div>
+<div class="actress-details">
+<span class="actrees-name">Yoshinaga Konomi</span>
+</div>
+</div>
+</a>
 <a href="/tags#Mizuhara-Misono">
 <div class="actress-info">
 <div class="actress-pic">
