@@ -44,7 +44,7 @@
             {% assign sameTagCount = 0 %}
             {% assign commonTags = '' %}
         
-            {% for category in post.categories %}
+            {% for category in post.tags %}
             {% if post.url != page.url %}
                 {% if page.tags contains category %}
                 {% assign sameTagCount = sameTagCount | plus: 1 %}
