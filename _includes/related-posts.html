@@ -34,8 +34,14 @@
         
         {% endfor %}
         </div>        
+</div>
 
-{% assign maxRelated = 3 %}
+<div class="{% unless page.tags == empty %} related-posts {% endunless %}">  
+    {% unless page.tags == empty %}
+    <h2 class="text-center mb-4">Recommendation</h2>
+    {% endunless %}
+
+    {% assign maxRelated = 6 %}
     {% assign minCommonTags =  1 %}
     {% assign maxRelatedCounter = 0 %}
     <div class="blog-grid-container">
