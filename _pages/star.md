@@ -199,7 +199,7 @@ span.actress-info:hover {
 </div>
 </div>
 </a>
-<a href="/tags#Yuzuriha-Karen">
+<a href="{{ site.baseurl }}/tags#Yuzuriha-Karen">
 <div class="actress-info">
 <div class="actress-pic">
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6jj5296PbLgUax5o6k9zHo-1PtTaK6sZPGypK5hpX1P6Dk0-4gMZ2LKKI9jMiAMkGHMPKVTQuRYMREaDMSf7HBjiShXTs8e64ADkZpZgg4yg9tcemyNXFman_pQ-pdz5xn-XcqONxBa7rolQbExgqaI09MNEuyLB9jPyEvM-ByWfDoVSXPLYLDG6k/s1600/Tak%20berjudul2_20220723143419.png" alt="Yuzuriha Karen">
