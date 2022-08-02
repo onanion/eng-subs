@@ -89,6 +89,16 @@ span.actress-info:hover {
 </style>
 
 <div class="actress-box">
+<a href="{{ site.baseurl }}/tags#Mikami-Yua">
+<div class="actress-info">
+<div class="actress-pic">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-L0-ITPLoy3dUbSBZ0Y-0jPwJo6AAIqTt-hv4fU51LCAvAo9c7YIhyq9mamarPeFNWd6rZf7-L27KN0H2wSxoMnfxROHtS0EIpoqLYd_JJolHG3-4ZH7vlF-XzTlIc07Yfw8RdtUBhzlRAtnoMPYvlHb_8qF-u6hoFAmtE1dK1xwwQHr3dV5OSl4A/s1600/Tak%20berjudul2_20220802224454.png" alt="Mikami Yua">
+</div>
+<div class="actress-details">
+<span class="actrees-name">Mikami Yua</span>
+</div>
+</div>
+</a>
 <a href="/tags#Haruna-Hana">
 <div class="actress-info">
 <div class="actress-pic">
