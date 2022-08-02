@@ -1,8 +1,8 @@
 <!-- Related Posts
 ================================================== -->
-<div class="{% unless page.categories == empty %} related-posts {% endunless %}">  
-    {% unless page.categories == empty %}
-    <h2 class="text-center mb-4">Explore more like this</h2>
+<div class="{% unless page.tags == empty %} related-posts {% endunless %}">  
+    {% unless page.tags == empty %}
+    <h2 class="text-center mb-4">Same Studio or Actress</h2>
     {% endunless %}
 
     {% assign maxRelated = 6 %}
@@ -14,9 +14,9 @@
             {% assign sameTagCount = 0 %}
             {% assign commonTags = '' %}
         
-            {% for category in post.categories %}
+            {% for category in post.tags %}
             {% if post.url != page.url %}
-                {% if page.categories contains category %}
+                {% if page.tags contains category %}
                 {% assign sameTagCount = sameTagCount | plus: 1 %}
                 {% capture tagmarkup %} {{ category }} {% endcapture %}
                 {% assign commonTags = commonTags | append: tagmarkup %}
@@ -36,9 +36,9 @@
         </div>        
 </div>
 
-<div class="{% unless page.tags == empty %} related-posts {% endunless %}">  
-    {% unless page.tags == empty %}
-    <h2 class="text-center mb-4">Recommendation</h2>
+<div class="{% unless page.categories == empty %} related-posts {% endunless %}">  
+    {% unless page.categories == empty %}
+    <h2 class="text-center mb-4">For Ya</h2>
     {% endunless %}
 
     {% assign maxRelated = 6 %}
@@ -50,9 +50,9 @@
             {% assign sameTagCount = 0 %}
             {% assign commonTags = '' %}
         
-            {% for category in post.tags %}
+            {% for category in post.categories %}
             {% if post.url != page.url %}
-                {% if page.tags contains category %}
+                {% if page.categories contains category %}
                 {% assign sameTagCount = sameTagCount | plus: 1 %}
                 {% capture tagmarkup %} {{ category }} {% endcapture %}
                 {% assign commonTags = commonTags | append: tagmarkup %}
