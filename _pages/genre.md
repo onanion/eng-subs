@@ -90,3 +90,4 @@ a.fromLeft:after{  transform-origin:  0% 50%; }
 <p>&#8212; <a class="fromLeft" href='/categories#Pantyhose' title='Pantyhose'>Pantyhose</a></p>
 <p>&#8212; <a class="fromLeft" href='/categories#Hot-Spring' title='Hot Spring'>Hot Spring</a></p>
 <p>&#8212; <a class="fromLeft" href='/categories#Voyeur' title='Voyeur'>Voyeur</a></p>
+<p>&#8212; <a class="fromLeft" href='/categories#Fantasy' title='Fantasy'>Fantasy</a></p>
