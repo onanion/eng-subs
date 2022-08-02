@@ -79,6 +79,7 @@ a.fromLeft:after{  transform-origin:  0% 50%; }
 <p>&#8212; <a class="fromLeft" href='{{ site.baseurl }}/categories#Car-Sex' title='Car Sex'>Car Sex</a></p>
 <p>&#8212; <a class="fromLeft" href='{{ site.baseurl }}/categories#Widow' title='Widow'>Widow</a></p>
 <p>&#8212; <a class="fromLeft" href='{{ site.baseurl }}/categories#Squirting' title='Squirting'>Squirting</a></p>
+<p>&#8212; <a class="fromLeft" href='{{ site.baseurl }}/categories#Female-investigator' title='Female investigator'>Female investigator</a></p>
 <p>&#8212; <a class="fromLeft" href='{{ site.baseurl }}/categories#Humiliation' title='Humiliation'>Humiliation</a></p>
 <p>&#8212; <a class="fromLeft" href='{{ site.baseurl }}/categories#Mother' title='Mother'>Mother</a></p>
 <p>&#8212; <a class="fromLeft" href='{{ site.baseurl }}/categories#Stepmother' title='Stepmother'>Stepmother</a></p>
