@@ -20,6 +20,7 @@ a.fromRight:after{ transform-origin:100% 50%; }
 a.fromLeft:after{  transform-origin:  0% 50%; }
 </style>
 
+<p>&#8212; <a class="fromLeft" href='{{ site.baseurl }}/tags#SSNI' title='SSNI'>SSNI</a></p>
 <p>&#8212; <a class="fromLeft" href='{{ site.baseurl }}/tags#ATID' title='ATID'>ATID</a></p>
 <p>&#8212; <a class="fromLeft" href='{{ site.baseurl }}/tags#HODV' title='HODV'>HODV</a></p>
 <p>&#8212; <a class="fromLeft" href='{{ site.baseurl }}/tags#MEYD' title='MEYD'>MEYD</a></p>
